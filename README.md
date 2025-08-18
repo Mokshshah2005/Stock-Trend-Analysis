@@ -4,7 +4,7 @@
 This project focuses on analyzing stock market trends and predicting future stock prices using Long Short-Term Memory (LSTM) networks.
 
 ## Steps Involved
-1. **Data Collection**: Obtain stock market data from a reliable source (e.g., Yahoo Finance).
+1. **Data Collection**: Obtain stock market data from a reliable source (e.g., Yahoo Finance, Yahoo Query).
 2. **Data Preprocessing**:
    - Handle missing values
    - Normalize data
